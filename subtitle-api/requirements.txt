@@ -1,0 +1,14 @@
+#逐字稿
+fpdf
+yt-dlp
+pytube
+fastapi
+uvicorn
+reportlab
+youtube-transcript-api
+
+# PDF 產生
+reportlab 
+requests
+pillow
+fpdf2
