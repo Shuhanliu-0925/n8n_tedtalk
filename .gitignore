@@ -1,0 +1,10 @@
+# n8n
+git rm -r --cached binaryData
+git rm -r --cached git
+git rm -r --cached ssh
+echo echo "n8n/*.log" 
+
+# subtitile-api
+echo echo "subtitle-api/*.pdf" 
+echo "subtitle-api/transcripts/*.txt"
+echo "subtitle-api/temp/*.json"
